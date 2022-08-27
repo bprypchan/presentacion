@@ -1,0 +1,28 @@
+#circulo{
+    height:20px;
+    width:20px;
+    background: rgb(3 105 161);
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+ }
+
+ #circulo2{
+    height:20px;
+    width:20px; 
+    background-color: #d11414bd;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+ }
+
+ .fondo{
+
+/*position: absolute;*/
+opacity: 20%;
+height: 1px;
+
+
+ }
+ 
+ 
